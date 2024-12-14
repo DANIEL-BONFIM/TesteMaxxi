@@ -215,5 +215,49 @@ ORDER BY COUNT(produto) DESC;
  
 
  -- Questão 5
-SELECT SUM(c.num_filhos) FROM cadastro c
+SELECT c.grau_instrucao, SUM(c.num_filhos) FROM cadastro c
 GROUP BY c.grau_instrucao
+-- Mulheres com ensino superior tendem a ter menos filhos,
+-- devido ao foco direcionado a carreira e a 
+-- dificuldade de conciliar afazeres pessoais, estudos e trabalho ao mesmo tempo que
+-- é preciso cuidar dos filhos e se ausentar das atividades profissionais e educacionais.
+-- Tendo ainda alguns preconceitos no mercado de trabalho, o que torna ainda mais difícil 
+-- Tomar a decisão de ter um filho  
+-- fonte: https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13899-asi-sis-2010-mulheres-mais-escolarizadas-sao-maes-mais-tarde-e-tem-menos-filhos
+
+-- No caso dos homens, o inverso ocorre segundo o IBGE, 93,3% dos homens com ensino superior participaram do pré-natal de suas crianças
+-- https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/31446-64-6-dos-homens-com-15-anos-ou-mais-de-idade-ja-eram-pais-em-2019#:~:text=Em%202019%2C%2064%2C6%25,o%20n%C3%ADvel%20de%20escolaridade%20aumenta.
+
+-- É plaúsivel tais análises uma vez que no cenário feminino muitos fatores influenciam
+-- o fato das mulheres não terem filhos, como mencionado, a necessidade de se ausentar por um período
+-- maior que o do homem para criação de seus filhos e o preconceito que o mercado acadêmico e profissional ainda possui com elas.
+
+
+-- QUESTÃO 6
+WITH QUARTIS AS (SELECT 
+ c.cod_cadastro,
+ SUM(v.valor),
+ AVG(v.valor),
+ PERCENT_RANK() OVER (ORDER BY AVG(v.valor)) AS percent_ranking
+FROM vendas v
+LEFT JOIN cadastro c ON c.cod_cadastro = v.cod_cadastro
+GROUP BY c.cod_cadastro
+ORDER BY AVG(v.valor) DESC
+)
+SELECT
+ *
+FROM QUARTIS
+WHERE percent_ranking < 0.75 and percent_ranking > 0.5
+
+-- Um possível critério seria o Ticket Médio, em que:
+
+-- Diamante: Um Ticket Médio > 11 (acima do 3º quartil)
+-- Ouro: 6.5 < Ticket Médio < 11  
+-- Prata: Ticket Médio < 6.5
+
+-- O Ticket Médio mais alto pode significar menores custos:
+-- Nos transportes, pois se leva mais e um único pedido
+-- Nos impostos, quando tratamos de kits de produtos, que auxiliam no aumento do ticket medio, há uma menor tributação que em produtos individuais
+-- No marketing, faz-se mais com um menor investimento em propaganda
+
+-- Por isso essa métrica é um bom parâmetro para definir o perfil do cliente

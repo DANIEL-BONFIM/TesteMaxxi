@@ -58,3 +58,4 @@ rotas = ('people','films','planets')
 
 for rot in rotas:
   obtendo_resultados(rot)
+  

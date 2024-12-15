@@ -89,4 +89,3 @@ for rot in rotas:
 
   df.to_csv(f'Work\\{rot}_tratado.csv',sep=';', index=False)
 
-# %%

@@ -1,26 +1,26 @@
 height;mass;hair_color;skin_color;eye_color;birth_year;gender;created;edited;name;homeworld;url
-172;77;blond;fair;blue;19BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Luke Skywalker;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/1
-167;75;n/a;gold;yellow;112BBY;n/a;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;C-3PO;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/2
-96;32;n/a;white, blue;red;33BBY;n/a;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;R2-D2;https://www.swapi.tech/api/planets/8;https://www.swapi.tech/api/people/3
-202;136;none;white;yellow;41.9BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Darth Vader;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/4
-150;49;brown;light;brown;19BBY;female;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Leia Organa;https://www.swapi.tech/api/planets/2;https://www.swapi.tech/api/people/5
-178;120;brown, grey;light;blue;52BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Owen Lars;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/6
-165;75;brown;light;blue;47BBY;female;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Beru Whitesun lars;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/7
-97;32;n/a;white, red;red;unknown;n/a;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;R5-D4;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/8
-183;84;black;light;brown;24BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Biggs Darklighter;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/9
-182;77;auburn, white;fair;blue-gray;57BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Obi-Wan Kenobi;https://www.swapi.tech/api/planets/20;https://www.swapi.tech/api/people/10
-188;84;blond;fair;blue;41.9BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Anakin Skywalker;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/11
-180;unknown;auburn, grey;fair;blue;64BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Wilhuff Tarkin;https://www.swapi.tech/api/planets/21;https://www.swapi.tech/api/people/12
-228;112;brown;unknown;blue;200BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Chewbacca;https://www.swapi.tech/api/planets/14;https://www.swapi.tech/api/people/13
-180;80;brown;fair;brown;29BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Han Solo;https://www.swapi.tech/api/planets/22;https://www.swapi.tech/api/people/14
-173;74;n/a;green;black;44BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Greedo;https://www.swapi.tech/api/planets/23;https://www.swapi.tech/api/people/15
-175;1,358;n/a;green-tan, brown;orange;600BBY;hermaphrodite;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Jabba Desilijic Tiure;https://www.swapi.tech/api/planets/24;https://www.swapi.tech/api/people/16
-170;77;brown;fair;hazel;21BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Wedge Antilles;https://www.swapi.tech/api/planets/22;https://www.swapi.tech/api/people/18
-180;110;brown;fair;blue;unknown;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Jek Tono Porkins;https://www.swapi.tech/api/planets/26;https://www.swapi.tech/api/people/19
-66;17;white;green;brown;896BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Yoda;https://www.swapi.tech/api/planets/28;https://www.swapi.tech/api/people/20
-170;75;grey;pale;yellow;82BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Palpatine;https://www.swapi.tech/api/planets/8;https://www.swapi.tech/api/people/21
-183;78.2;black;fair;brown;31.5BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Boba Fett;https://www.swapi.tech/api/planets/10;https://www.swapi.tech/api/people/22
-200;140;none;metal;red;15BBY;none;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;IG-88;https://www.swapi.tech/api/planets/28;https://www.swapi.tech/api/people/23
-190;113;none;green;red;53BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Bossk;https://www.swapi.tech/api/planets/29;https://www.swapi.tech/api/people/24
-177;79;black;dark;brown;31BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Lando Calrissian;https://www.swapi.tech/api/planets/30;https://www.swapi.tech/api/people/25
-175;79;none;light;blue;37BBY;male;2024-12-14T13:36:07.644Z;2024-12-14T13:36:07.644Z;Lobot;https://www.swapi.tech/api/planets/6;https://www.swapi.tech/api/people/26
+172;77;blond;fair;blue;19BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Luke Skywalker;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/1
+167;75;n/a;gold;yellow;112BBY;n/a;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;C-3PO;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/2
+96;32;n/a;white, blue;red;33BBY;n/a;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;R2-D2;https://www.swapi.tech/api/planets/8;https://www.swapi.tech/api/people/3
+202;136;none;white;yellow;41.9BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Darth Vader;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/4
+150;49;brown;light;brown;19BBY;female;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Leia Organa;https://www.swapi.tech/api/planets/2;https://www.swapi.tech/api/people/5
+178;120;brown, grey;light;blue;52BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Owen Lars;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/6
+165;75;brown;light;blue;47BBY;female;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Beru Whitesun lars;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/7
+97;32;n/a;white, red;red;unknown;n/a;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;R5-D4;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/8
+183;84;black;light;brown;24BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Biggs Darklighter;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/9
+182;77;auburn, white;fair;blue-gray;57BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Obi-Wan Kenobi;https://www.swapi.tech/api/planets/20;https://www.swapi.tech/api/people/10
+188;84;blond;fair;blue;41.9BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Anakin Skywalker;https://www.swapi.tech/api/planets/1;https://www.swapi.tech/api/people/11
+180;unknown;auburn, grey;fair;blue;64BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Wilhuff Tarkin;https://www.swapi.tech/api/planets/21;https://www.swapi.tech/api/people/12
+228;112;brown;unknown;blue;200BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Chewbacca;https://www.swapi.tech/api/planets/14;https://www.swapi.tech/api/people/13
+180;80;brown;fair;brown;29BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Han Solo;https://www.swapi.tech/api/planets/22;https://www.swapi.tech/api/people/14
+173;74;n/a;green;black;44BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Greedo;https://www.swapi.tech/api/planets/23;https://www.swapi.tech/api/people/15
+175;1,358;n/a;green-tan, brown;orange;600BBY;hermaphrodite;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Jabba Desilijic Tiure;https://www.swapi.tech/api/planets/24;https://www.swapi.tech/api/people/16
+170;77;brown;fair;hazel;21BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Wedge Antilles;https://www.swapi.tech/api/planets/22;https://www.swapi.tech/api/people/18
+180;110;brown;fair;blue;unknown;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Jek Tono Porkins;https://www.swapi.tech/api/planets/26;https://www.swapi.tech/api/people/19
+66;17;white;green;brown;896BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Yoda;https://www.swapi.tech/api/planets/28;https://www.swapi.tech/api/people/20
+170;75;grey;pale;yellow;82BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Palpatine;https://www.swapi.tech/api/planets/8;https://www.swapi.tech/api/people/21
+183;78.2;black;fair;brown;31.5BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Boba Fett;https://www.swapi.tech/api/planets/10;https://www.swapi.tech/api/people/22
+200;140;none;metal;red;15BBY;none;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;IG-88;https://www.swapi.tech/api/planets/28;https://www.swapi.tech/api/people/23
+190;113;none;green;red;53BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Bossk;https://www.swapi.tech/api/planets/29;https://www.swapi.tech/api/people/24
+177;79;black;dark;brown;31BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Lando Calrissian;https://www.swapi.tech/api/planets/30;https://www.swapi.tech/api/people/25
+175;79;none;light;blue;37BBY;male;2024-12-15T14:22:42.307Z;2024-12-15T14:22:42.307Z;Lobot;https://www.swapi.tech/api/planets/6;https://www.swapi.tech/api/people/26

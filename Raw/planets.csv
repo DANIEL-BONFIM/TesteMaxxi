@@ -1,26 +1,26 @@
 diameter;rotation_period;orbital_period;gravity;population;climate;terrain;surface_water;created;edited;name;url
-10465;23;304;1 standard;200000;arid;desert;1;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Tatooine;https://www.swapi.tech/api/planets/1
-12500;24;364;1 standard;2000000000;temperate;grasslands, mountains;40;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Alderaan;https://www.swapi.tech/api/planets/2
-10200;24;4818;1 standard;1000;temperate, tropical;jungle, rainforests;8;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Yavin IV;https://www.swapi.tech/api/planets/3
-7200;23;549;1.1 standard;unknown;frozen;tundra, ice caves, mountain ranges;100;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Hoth;https://www.swapi.tech/api/planets/4
-8900;23;341;N/A;unknown;murky;swamp, jungles;8;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Dagobah;https://www.swapi.tech/api/planets/5
-118000;12;5110;1.5 (surface), 1 standard (Cloud City);6000000;temperate;gas giant;0;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Bespin;https://www.swapi.tech/api/planets/6
-4900;18;402;0.85 standard;30000000;temperate;forests, mountains, lakes;8;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Endor;https://www.swapi.tech/api/planets/7
-12120;26;312;1 standard;4500000000;temperate;grassy hills, swamps, forests, mountains;12;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Naboo;https://www.swapi.tech/api/planets/8
-12240;24;368;1 standard;1000000000000;temperate;cityscape, mountains;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Coruscant;https://www.swapi.tech/api/planets/9
-19720;27;463;1 standard;1000000000;temperate;ocean;100;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Kamino;https://www.swapi.tech/api/planets/10
-11370;30;256;0.9 standard;100000000000;temperate, arid;rock, desert, mountain, barren;5;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Geonosis;https://www.swapi.tech/api/planets/11
-12900;27;351;1 standard;95000000;temperate, arid, windy;scrublands, savanna, canyons, sinkholes;0.9;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Utapau;https://www.swapi.tech/api/planets/12
-4200;36;412;1 standard;20000;hot;volcanoes, lava rivers, mountains, caves;0;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Mustafar;https://www.swapi.tech/api/planets/13
-12765;26;381;1 standard;45000000;tropical;jungle, forests, lakes, rivers;60;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Kashyyyk;https://www.swapi.tech/api/planets/14
-0;24;590;0.56 standard;1000000;artificial temperate ;airless asteroid;0;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Polis Massa;https://www.swapi.tech/api/planets/15
-10088;12;167;1 standard;19000000;frigid;glaciers, mountains, ice canyons;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Mygeeto;https://www.swapi.tech/api/planets/16
-9100;34;231;0.75 standard;8500000;hot, humid;fungus forests;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Felucia;https://www.swapi.tech/api/planets/17
-0;25;278;1 standard;10000000;temperate, moist;mountains, fields, forests, rock arches;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Cato Neimoidia;https://www.swapi.tech/api/planets/18
-14920;26;392;unknown;1400000000;hot;caves, desert, mountains, volcanoes;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Saleucami;https://www.swapi.tech/api/planets/19
-0;unknown;unknown;1 standard;unknown;temperate;grass;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Stewjon;https://www.swapi.tech/api/planets/20
-13490;24;360;1 standard;22000000000;polluted;cityscape;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Eriadu;https://www.swapi.tech/api/planets/21
-11000;25;329;1 standard;3000000000;temperate;plains, urban, hills, forests;70;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Corellia;https://www.swapi.tech/api/planets/22
-7549;29;305;1 standard;1300000000;hot;jungles, oceans, urban, swamps;60;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Rodia;https://www.swapi.tech/api/planets/23
-12150;87;413;1 standard;7000000000;temperate;urban, oceans, swamps, bogs;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Nal Hutta;https://www.swapi.tech/api/planets/24
-9830;25;378;1 standard;1000;temperate;oceans, savannas, mountains, grasslands;unknown;2024-12-14T13:36:07.648Z;2024-12-14T13:36:07.648Z;Dantooine;https://www.swapi.tech/api/planets/25
+10465;23;304;1 standard;200000;arid;desert;1;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Tatooine;https://www.swapi.tech/api/planets/1
+12500;24;364;1 standard;2000000000;temperate;grasslands, mountains;40;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Alderaan;https://www.swapi.tech/api/planets/2
+10200;24;4818;1 standard;1000;temperate, tropical;jungle, rainforests;8;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Yavin IV;https://www.swapi.tech/api/planets/3
+7200;23;549;1.1 standard;unknown;frozen;tundra, ice caves, mountain ranges;100;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Hoth;https://www.swapi.tech/api/planets/4
+8900;23;341;N/A;unknown;murky;swamp, jungles;8;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Dagobah;https://www.swapi.tech/api/planets/5
+118000;12;5110;1.5 (surface), 1 standard (Cloud City);6000000;temperate;gas giant;0;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Bespin;https://www.swapi.tech/api/planets/6
+4900;18;402;0.85 standard;30000000;temperate;forests, mountains, lakes;8;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Endor;https://www.swapi.tech/api/planets/7
+12120;26;312;1 standard;4500000000;temperate;grassy hills, swamps, forests, mountains;12;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Naboo;https://www.swapi.tech/api/planets/8
+12240;24;368;1 standard;1000000000000;temperate;cityscape, mountains;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Coruscant;https://www.swapi.tech/api/planets/9
+19720;27;463;1 standard;1000000000;temperate;ocean;100;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Kamino;https://www.swapi.tech/api/planets/10
+11370;30;256;0.9 standard;100000000000;temperate, arid;rock, desert, mountain, barren;5;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Geonosis;https://www.swapi.tech/api/planets/11
+12900;27;351;1 standard;95000000;temperate, arid, windy;scrublands, savanna, canyons, sinkholes;0.9;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Utapau;https://www.swapi.tech/api/planets/12
+4200;36;412;1 standard;20000;hot;volcanoes, lava rivers, mountains, caves;0;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Mustafar;https://www.swapi.tech/api/planets/13
+12765;26;381;1 standard;45000000;tropical;jungle, forests, lakes, rivers;60;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Kashyyyk;https://www.swapi.tech/api/planets/14
+0;24;590;0.56 standard;1000000;artificial temperate ;airless asteroid;0;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Polis Massa;https://www.swapi.tech/api/planets/15
+10088;12;167;1 standard;19000000;frigid;glaciers, mountains, ice canyons;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Mygeeto;https://www.swapi.tech/api/planets/16
+9100;34;231;0.75 standard;8500000;hot, humid;fungus forests;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Felucia;https://www.swapi.tech/api/planets/17
+0;25;278;1 standard;10000000;temperate, moist;mountains, fields, forests, rock arches;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Cato Neimoidia;https://www.swapi.tech/api/planets/18
+14920;26;392;unknown;1400000000;hot;caves, desert, mountains, volcanoes;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Saleucami;https://www.swapi.tech/api/planets/19
+0;unknown;unknown;1 standard;unknown;temperate;grass;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Stewjon;https://www.swapi.tech/api/planets/20
+13490;24;360;1 standard;22000000000;polluted;cityscape;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Eriadu;https://www.swapi.tech/api/planets/21
+11000;25;329;1 standard;3000000000;temperate;plains, urban, hills, forests;70;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Corellia;https://www.swapi.tech/api/planets/22
+7549;29;305;1 standard;1300000000;hot;jungles, oceans, urban, swamps;60;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Rodia;https://www.swapi.tech/api/planets/23
+12150;87;413;1 standard;7000000000;temperate;urban, oceans, swamps, bogs;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Nal Hutta;https://www.swapi.tech/api/planets/24
+9830;25;378;1 standard;1000;temperate;oceans, savannas, mountains, grasslands;unknown;2024-12-15T14:22:42.310Z;2024-12-15T14:22:42.310Z;Dantooine;https://www.swapi.tech/api/planets/25

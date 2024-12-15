@@ -4,6 +4,4 @@ O exercicio 1 consta em linguagem SQL, com as respectivas respostas das questõe
 
 O exercicio 2 foi resolvido em Python, com os respectivos comentários
 
-O exercicio 3 está respondido abaixo:
-
-i) 
+O exercicio 3 consta no arquivo Ex3

@@ -1,5 +1,8 @@
-i) The data lake has no predefined schema before storage, which allows for greater flexibility compared to a data warehouse. When it comes to work with multiple data sources in different formats, this flexibility is important in choosing the best storage format, making a Data Lake the ideal choice in such cases.
+i) The data lake has no predefined schema before storage, which allows for greater flexibility compared to a data warehouse. 
+When it comes to work with multiple data sources in different formats, this flexibility is important in choosing the best storage 
+format, making a Data Lake the ideal choice in such cases.
 
 ii) In this case, the data warehouse is the best option because its structure (schema) is well-defined and documented.
 
-iii) Data Warehouse, because, as stated in the text, its structure (schema) is defined before storage. For this reason, any changes can be complicated once it has been established.
+iii) Data Warehouse, because, as stated in the text, its structure (schema) is defined before storage. 
+For this reason, any changes can be complicated once it has been established.
